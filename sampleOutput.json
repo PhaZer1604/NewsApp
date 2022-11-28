@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+        "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Youngsters in Finland worry war could spread",
+        "description": "In Finland, which borders Russia, some young people are worried the Ukraine conflict could spread.",
+        "url": "http://www.bbc.co.uk/news/world-europe-60867684",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5B26/production/_123943332_p0by75gh.jpg",
+        "publishedAt": "2022-03-30T11:52:24.5114271Z",
+        "content": "News coverage of the war in Ukraine has created uncertainty and fear in many children around the world. \r\nAlthough there is no immediate threat from Russia, some young people in Finland are concerned… [+216 chars]"
+        },
+        {
+        "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+        },
+        "author": "BBC Sport",
+        "title": "Warne remembered at emotional state memorial",
+        "description": "Sir Elton John, Ed Sheeran and a host of former cricketers lead tributes to Australia legend Shane Warne at a state memorial service.",
+        "url": "http://www.bbc.co.uk/sport/cricket/60895845",
+        "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/DC4A/production/_123949365_gettyimages-1239617092.jpg",
+        "publishedAt": "2022-03-30T11:37:25.5892854Z",
+        "content": "Sir Elton John, Ed Sheeran, Robbie Williams and Coldplay's Chris Martin all performed via video\r\nSir Elton John, Ed Sheeran and a host of former cricketers led the tributes to Australian cricketing l… [+1627 chars]"
+        },
+        {
+        "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Ukraine War: Putin demands Mariupol surrender to end shelling",
+        "description": "Comments come as satellite images show the devastation unleashed by Russia's bombardment.",
+        "url": "http://www.bbc.co.uk/news/world-europe-60926470",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/EBD6/production/_123947306_morebu.jpg",
+        "publishedAt": "2022-03-30T10:22:24.7636349Z",
+        "content": "Russian President Vladimir Putin has said that shelling of the besieged Ukrainian city of Mariupol will only end when Ukrainian troops surrender. \r\nMr Putin made the comments during an hour long phon… [+2576 chars]"
+        },
+        {
+        "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Bringing raves back to life through VR",
+        "description": "A new virtual reality experience is taking visitors on a journey back to the time of glowsticks and whistles.",
+        "url": "http://www.bbc.co.uk/news/uk-60925643",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/106C0/production/_123946276_p0by8tfr.jpg",
+        "publishedAt": "2022-03-30T09:07:22.2628078Z",
+        "content": "During the 1980s, a cultural movement spread across the country with the arrival of acid house. By the early 90s, raves were huge events with thousands of people.\r\nNow a new virtual reality experienc… [+241 chars]"
+        },
+        {
+        "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "China: Panic buying in divided Shanghai under lockdown",
+        "description": "Residents are scrambling for essentials and quarantining in offices in China's financial capital.",
+        "url": "http://www.bbc.co.uk/news/world-asia-china-60912846",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A9BE/production/_123945434_img_3330.jpg",
+        "publishedAt": "2022-03-30T08:52:24.4201565Z",
+        "content": "Image source, Edward Lawrence\r\nImage caption, Lockdown restrictions in Shanghai have resulted in residents thronging supermarkets to stock up on essential supplies.\r\nResidents in Shanghai are scrambl… [+6002 chars]"
+        },
+        {
+        "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "War in Ukraine: Russia strikes Chernihiv after peace promise",
+        "description": "City's governor says Russian forces bombarded the city overnight, despite pledge to reduce attacks.",
+        "url": "http://www.bbc.co.uk/news/world-europe-60925713",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17100/production/_123946449_hi074948618.jpg",
+        "publishedAt": "2022-03-30T08:37:21.5765543Z",
+        "content": "The governor of Ukraine's Chernihiv region says there is no let-up in attacks by Russia, despite its pledge to reduce military activity there.\r\nThe governor, Viacheslav Chaus, took to the Telegram me… [+1494 chars]"
+        },
+        {
+        "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Some Americans are going to Mexico for cheaper petrol",
+        "description": "With US petrol prices on the rise, some Americans are looking for better deals south of the border.",
+        "url": "http://www.bbc.co.uk/news/world-us-canada-60882442",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/183DD/production/_123939299_gettyimages-1359768273.jpg",
+        "publishedAt": "2022-03-30T02:22:21.0912476Z",
+        "content": "Image source, Getty Images\r\nAs petrol prices across the US continue to rise, Americans are looking for cheaper ways to fill their tanks - and some are even are seeking deals in another country. \r\nIn … [+3390 chars]"
+        },
+        {
+        "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Covid closures still affecting 400 million pupils - Unicef",
+        "description": "Schools in 23 countries are still partially or fully closed because of Covid, Unicef warns.",
+        "url": "http://www.bbc.co.uk/news/education-60846683",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9013/production/_123838863_elin5.jpg",
+        "publishedAt": "2022-03-29T23:52:23.1065167Z",
+        "content": "By Branwen Jeffreys Education Editor\r\nImage source, Kate Nothnagel\r\nImage caption, Elin's been attending school via online learning from her bedroom for two years now, in Trinidad and Tobago\r\nSchools… [+6293 chars]"
+        },
+        {
+        "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Four killed in new attack in Israel",
+        "description": "The gunman is said to have shot victims from a motorcycle in the third such attack within a week.",
+        "url": "http://www.bbc.co.uk/news/world-middle-east-60902330",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8355/production/_123912633_mediaitem123912632.jpg",
+        "publishedAt": "2022-03-29T18:37:18.404252Z",
+        "content": "Image caption, The shootings happened in a heavily populated ultra-Orthodox area\r\nFour people have been shot dead on the outskirts of Tel Aviv, Israel, medics say, in the third deadly attack of its k… [+589 chars]"
+        },
+        {
+        "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Donald Trump's 6 January call logs show seven-hour gap",
+        "description": "The committee investigating the Capitol riots had sought to obtain the presidential records.",
+        "url": "http://www.bbc.co.uk/news/world-us-canada-60799663",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E79D/production/_123939295_gettyimages-1373031870.jpg",
+        "publishedAt": "2022-03-29T14:22:22.9843784Z",
+        "content": "By Anthony ZurcherNorth America reporter\r\nImage source, Getty Images\r\nOfficial White House logs from 6 January, 2021 - the day the US Capitol was breached by a mob of Donald Trump's supporters - show… [+2098 chars]"
+    }
+    ]
+}
